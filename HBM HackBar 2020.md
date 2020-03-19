@@ -38,7 +38,7 @@ Compatible Browser
 - Firefox (security issue to any version) 
 
 
-For More Theme goto https://github.com/PhHitachi/HackBar/tree/master/Theme
+For More Theme goto https://github.com/Black-Alien/hbm_hackbar_2020/
 
 
 

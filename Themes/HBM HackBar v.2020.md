@@ -1,4 +1,4 @@
-- [HBM HackBar 2020](https://drive.google.com/open?id=1Z3nC0sz2u-PSTQT0f2nxXeJx7ID3pPQT)
+- [HBM HackBar](https://drive.google.com/open?id=1Z3nC0sz2u-PSTQT0f2nxXeJx7ID3pPQT)
   <p>Customize Hackbar are added to make easylly and good UI/Design of your own.</p>
   
     - <b>Tools (8 in 1)</b>
@@ -38,7 +38,7 @@ Compatible Browser
 - Firefox (security issue to any version) 
 
 
-For More Theme goto https://github.com/Black-Alien/hbm_hackbar_2020/
+For More Theme goto https://github.com/Black-Alien/hbm_hackbar/tree/master/Themes
 
 
 
